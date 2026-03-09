@@ -1,4 +1,4 @@
-# Neural Networks | UFES-2026/1 | Computational Graphs
+# Neural Networks | UFES-2026/2 | Computational Graphs
 
 # Automatic Differentiation with Computational Graphs
 
