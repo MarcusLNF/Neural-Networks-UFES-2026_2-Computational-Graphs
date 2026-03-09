@@ -146,9 +146,6 @@ or
 jupyter lab
 ```
 4. Run the cells sequentially.
-```bash
-jupyter lab
-```
 
 ---
 
